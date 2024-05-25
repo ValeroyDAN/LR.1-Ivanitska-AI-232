@@ -5,15 +5,19 @@
 ![image](https://github.com/ValeroyDAN/LR.1-Ivanitska-AI-232/assets/162423520/d8ac4639-61a7-46af-8dcc-c2d5cffdf1b6)
 
 Налаштування роботи Bash-оболонки
+
 ![image](https://github.com/ValeroyDAN/LR.1-Ivanitska-AI-232/assets/162423520/69bfb013-2837-4bb5-a0a3-0bce431bd727)
 ![image](https://github.com/ValeroyDAN/LR.1-Ivanitska-AI-232/assets/162423520/9a4aa892-50dc-4572-8335-a3fa76c2dad3)
 ![image](https://github.com/ValeroyDAN/LR.1-Ivanitska-AI-232/assets/162423520/bc93c33a-776b-4fe1-9243-452f920de8c5)
 
 Перенаправлення потоків даних
+
 ![image](https://github.com/ValeroyDAN/LR.1-Ivanitska-AI-232/assets/162423520/1a50073b-28f9-44fd-99b0-71cf85412a9a)
 ![image](https://github.com/ValeroyDAN/LR.1-Ivanitska-AI-232/assets/162423520/50a03c32-1197-4656-9346-119eb1254ac8)
 ![image](https://github.com/ValeroyDAN/LR.1-Ivanitska-AI-232/assets/162423520/786a7c29-3a3b-4e8f-ad37-a297c29f0e10)
+
 Команди оболонки командного рядку з обробки тексту
+
 ![image](https://github.com/ValeroyDAN/LR.1-Ivanitska-AI-232/assets/162423520/4d64f3ae-8bdf-4841-8cae-88fcce6606f1)
 ![image](https://github.com/ValeroyDAN/LR.1-Ivanitska-AI-232/assets/162423520/005ebd09-4012-4751-b767-fcb8cd2c73d7)
 
